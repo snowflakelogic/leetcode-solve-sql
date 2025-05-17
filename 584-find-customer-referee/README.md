@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50">Find Customer Referee</a></h2> 
+<h2><a href="https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50">Find Customer Referee</a></h2>  <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Products</code></p>
 <pre>
 Table: Customer
 
