@@ -19,6 +19,10 @@ Return the result table in any order.
 
 The result format is in the following example.
 </pre>
+SOLUTION:
+SELECT name
+FROM Customer
+WHERE referee_id != 2 OR referee_id IS NULL;
  
 <pre>
 Example 1:
