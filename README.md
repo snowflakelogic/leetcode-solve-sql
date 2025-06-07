@@ -1,6 +1,7 @@
+```
 SQL LeetCode Solutions 🗃️
 A comprehensive collection of SQL solutions for LeetCode database problems, organized by difficulty and topics.
-
+```
 ```
 🗂️ Repository Structure
 📁 problem-name-1/
