@@ -44,8 +44,9 @@ World table:
 +-------------+------------+---------+
 <strong>Explanation:</strong> Afghanistan and Algeria are big countries because they have populations of at least 25 million.
 </pre>
+
 **Query**
-```sql
+```sql:
 # Write your MySQL query statement below
 SELECT name, population, area 
 FROM World 
