@@ -101,19 +101,7 @@ Feel free to:
 
 <div align="center">
 
-## 🌟 **Show Your Support**
-
-If this repository helped you ace your SQL interviews or improve your database skills:
-
-[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-yellow?style=for-the-badge&logo=github)](https://github.com/your-username/sql-leetcode-solutions)
-[![Follow me](https://img.shields.io/badge/👤_Follow_me-blue?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![Share](https://img.shields.io/badge/📢_Share-green?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20SQL%20LeetCode%20solutions%20repo!)
-
 ### 🎯 **Keep Learning, Keep Growing!**
-
-*"The only way to do great work is to love what you do."* - Steve Jobs
-
----
 
 **Happy Coding!** 🚀✨
 
