@@ -1,7 +1,7 @@
 SQL LeetCode Solutions 🗃️
 A comprehensive collection of SQL solutions for LeetCode database problems, organized by difficulty and topics.
 
-
+```
 🗂️ Repository Structure
 📁 problem-name-1/
 ├── README.md (includes problem statement & difficulty)
@@ -13,6 +13,7 @@ A comprehensive collection of SQL solutions for LeetCode database problems, orga
 ├── README.md (includes problem statement & difficulty)
 └── solution.sql
 ...
+```
 
 Happy Coding! 🎯
 
