@@ -60,9 +60,7 @@ Each problem folder contains:
 
 ### `solution.sql`
 ```sql
--- Problem: [Problem Name]
 -- LeetCode Link: [URL]
--- Approach: [Brief explanation]
 
 SELECT ...
 FROM ...
@@ -105,6 +103,5 @@ Feel free to:
 
 **Happy Coding!** 🚀✨
 
-*Last Updated: December 2024*
 
 </div>
