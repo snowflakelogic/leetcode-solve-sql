@@ -31,14 +31,11 @@
 ```
 📁 Repository Root
 ├── 📁 combine-two-tables/
-│   ├── 📋 README.md (Problem #175 | Easy)
-│   └── 💻 solution.sql
+│   ├── 📋 README.md (Problem #175 | Solution | Easy)
 ├── 📁 second-highest-salary/
-│   ├── 📋 README.md (Problem #176 | Medium)
-│   └── 💻 solution.sql
+│   ├── 📋 README.md (Problem #176 | Solution | Medium)
 ├── 📁 department-top-three-salaries/
-│   ├── 📋 README.md (Problem #185 | Hard)
-│   └── 💻 solution.sql
+│   ├── 📋 README.md (Problem #185 | Solution | Hard)
 └── ... (more problems)
 ```
 
@@ -54,24 +51,10 @@
 
 </div>
 
-## 💡 Solution Format
-
-Each problem folder contains:
-
-### `solution.sql`
-```sql
--- LeetCode Link: [URL]
-
-SELECT ...
-FROM ...
-WHERE ...
--- Solution code here
-```
-
 ### `README.md` (in each problem folder)
 - Problem statement and difficulty level
 - Example input/output
-- Approach explanation
+- Solution
 - Key insights
 
 ## 🤝 Contributing
