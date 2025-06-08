@@ -8,6 +8,7 @@
 **A comprehensive collection of SQL solutions for LeetCode database problems**
 
 *Mastering SQL one query at a time* ✨
+*Learning to speak SQL fluently* 🎯✨
 
 </div>
 
