@@ -49,4 +49,4 @@ SELECT DISTINCT author_id AS id
 FROM Views
 WHERE author_id = viewer_id
 ORDER BY id;
-```RetryClaude can make mistakes. Please double-check responses. Sonnet 4
+```
